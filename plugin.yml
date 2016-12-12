@@ -1,0 +1,6 @@
+name: PlayerActive
+author: ondraczsk
+version: 1.0
+api: [1.13.1, 2.0.0, 2.0.1]
+load: STARTUP
+main: ondraczsk/PlayerActive
